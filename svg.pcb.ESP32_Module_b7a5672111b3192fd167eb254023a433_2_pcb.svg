@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2.68728in" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new 0 0 193.484 90.125" viewBox="0 0 193.484 90.125"  id="esp32" gorn="0" version="1.1" xml:space="preserve" x="0px" y="0px" height="1.25174in">
+    <desc >
+        <referenceFile >ESP32WROOM_Naked_Board_pcb_small_inkscape.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata47">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs45"/>
+    <g  id="copper1" gorn="0.3">
+        <rect width="1.701"  id="connector0pad" gorn="0.3.0" fill="#FEBF10" x="158.243" y="18.067" height="2.834"/>
+        <rect width="1.7"  id="connector1pad" gorn="0.3.1" fill="#FEBF10" x="154.633" y="18.067" height="2.834"/>
+        <rect width="1.7"  id="connector2pad" gorn="0.3.2" fill="#FEBF10" x="151.021" y="18.067" height="2.834"/>
+        <rect width="1.701"  id="connector3pad" gorn="0.3.3" fill="#FEBF10" x="147.41" y="18.067" height="2.834"/>
+        <rect width="1.697"  id="connector4pad" gorn="0.3.4" fill="#FEBF10" x="143.8" y="18.067" height="2.834"/>
+        <rect width="1.7"  id="connector5pad" gorn="0.3.5" fill="#FEBF10" x="140.184" y="18.067" height="2.834"/>
+        <rect width="1.699"  id="connector39pad" gorn="0.3.6" fill="#FEBF10" x="136.574" y="18.067" height="2.834"/>
+        <rect width="1.702"  id="connector40pad" gorn="0.3.7" fill="#FEBF10" x="132.965" y="18.067" height="2.834"/>
+        <rect width="1.705"  id="connector41pad" gorn="0.3.8" fill="#FEBF10" x="129.348" y="18.067" height="2.834"/>
+        <rect width="1.704"  id="connector42pad" gorn="0.3.9" fill="#FEBF10" x="125.738" y="18.067" height="2.834"/>
+        <rect width="1.703"  id="connector43pad" gorn="0.3.10" fill="#FEBF10" x="122.129" y="18.067" height="2.834"/>
+        <rect width="1.703"  id="connector44pad" gorn="0.3.11" fill="#FEBF10" x="118.515" y="18.067" height="2.834"/>
+        <rect width="1.702"  id="connector45pad" gorn="0.3.12" fill="#FEBF10" x="114.907" y="18.067" height="2.834"/>
+        <rect width="1.699"  id="connector46pad" gorn="0.3.13" fill="#FEBF10" x="111.298" y="18.067" height="2.834"/>
+        <rect width="2.834"  id="connector50pad" gorn="0.3.14" fill="#FEBF10" x="106.494" y="27.975" height="1.702"/>
+        <rect width="2.834"  id="connector47pad" gorn="0.3.15" fill="#FEBF10" x="106.494" y="31.586" height="1.702"/>
+        <rect width="2.834"  id="connector48pad" gorn="0.3.16" fill="#FEBF10" x="106.494" y="35.199" height="1.702"/>
+        <rect width="2.834"  gorn="0.3.17" id="connector49pad" fill="#FEBF10" x="106.494" y="38.81" height="1.701"/>
+        <rect width="2.834"  id="connector85pin" gorn="0.3.18" fill="#FEBF10" x="106.494" y="42.421" height="1.7"/>
+        <rect width="2.834"  gorn="0.3.19" id="connector52pad" fill="#FEBF10" x="106.494" y="46.033" height="1.702"/>
+        <rect width="2.834"  gorn="0.3.20" id="connector53pad" fill="#FEBF10" x="106.494" y="49.644" height="1.703"/>
+        <rect width="2.834"  gorn="0.3.21" id="connector54pad" fill="#FEBF10" x="106.494" y="53.254" height="1.702"/>
+        <rect width="2.834"  gorn="0.3.22" id="connector55pad" fill="#FEBF10" x="106.494" y="56.865" height="1.703"/>
+        <rect width="2.834"  gorn="0.3.23" id="connector56pad" fill="#FEBF10" x="106.494" y="60.477" height="1.703"/>
+        <rect width="1.699"  id="connector57pad" gorn="0.3.24" fill="#FEBF10" x="111.298" y="69.254" height="2.834"/>
+        <rect width="1.702"  id="connector58pad" gorn="0.3.25" fill="#FEBF10" x="114.907" y="69.254" height="2.834"/>
+        <rect width="1.703"  id="connector59pad" gorn="0.3.26" fill="#FEBF10" x="118.515" y="69.254" height="2.834"/>
+        <rect width="1.703"  id="connector60pad" gorn="0.3.27" fill="#FEBF10" x="122.129" y="69.254" height="2.834"/>
+        <rect width="1.704"  id="connector61pad" gorn="0.3.28" fill="#FEBF10" x="125.738" y="69.254" height="2.834"/>
+        <rect width="1.707"  id="connector62pad" gorn="0.3.29" fill="#FEBF10" x="129.347" y="69.254" height="2.834"/>
+        <rect width="1.702"  id="connector63pad" gorn="0.3.30" fill="#FEBF10" x="132.965" y="69.254" height="2.834"/>
+        <rect width="1.699"  id="connector64pad" gorn="0.3.31" fill="#FEBF10" x="136.574" y="69.254" height="2.834"/>
+        <rect width="1.7"  id="connector65pad" gorn="0.3.32" fill="#FEBF10" x="140.184" y="69.254" height="2.834"/>
+        <rect width="1.699"  id="connector66pad" gorn="0.3.33" fill="#FEBF10" x="143.799" y="69.254" height="2.834"/>
+        <rect width="1.701"  id="connector67pad" gorn="0.3.34" fill="#FEBF10" x="147.41" y="69.254" height="2.834"/>
+        <rect width="1.702"  id="connector68pad" gorn="0.3.35" fill="#FEBF10" x="151.02" y="69.254" height="2.834"/>
+        <rect width="1.7"  id="connector84pad" gorn="0.3.36" fill="#FEBF10" x="154.633" y="69.254" height="2.834"/>
+        <rect width="1.703"  id="connector51pad" gorn="0.3.37" fill="#FEBF10" x="158.243" y="69.254" height="2.834"/>
+        <rect width="17.062"  id="rect589_1_" gorn="0.3.38" fill="#FEBF10" x="128.814" y="37.351" height="17.061"/>
+    </g>
+</svg>
